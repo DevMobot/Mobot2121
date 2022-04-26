@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mobot2121
-- 👀 I’m interested in making Discord bots and Websites.
-- 🌱 I’m currently learning java, html and css.
+- 👀 I love making Discord bots and Websites.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me, My Discord username is Dev. Mobot#9914
 
